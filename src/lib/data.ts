@@ -68,7 +68,7 @@ export const projectsData = [
   {
     title: "Talking Head",
     videoUrl: "https://drive.google.com/file/d/15XVnO__mB-J1AOXJq4uMWbZ-JODtqNEY/preview",
-    thumbnailUrl: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnnYtQqeQNefVzVwyyzgmV4Jx9TP73Z0bMEA5KI7fg829sGe0VmEfOXcbN74OKoYnkCWNT5WiUb-WQH8l9r0cFH1YyD7DGMBeU3OwoaY6cnp-SLt6kMzN-SZmz02a_dA3YtKjv5VAGEMiDtgv6aZlKzKpx-EFb-DoK_N9XNVugKhL3vSL0MAmFvvkkT_M/s1600/Talking%20Head%20Thumbnail%20.png",
+    thumbnailUrl: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3NVy-36SmKDTj-lOzWVBdeDcoue8TMXGN8PsHSirTXSMTR7-iHO1YKoFMNIDYUL9ElhOejhXpzPkX7ox1BCf6yevLNkCaMBJFfgnVBwZdGUySQZuN3vnxpgpxZBduTnGWC2sdgsjbt0oFzMxZDfzgSn1BRqKIR5F15GQJV8DUr83I6Y7EhDJn0uYAqu8/s1600/Talking%20Head%20Edit%20-%20frame%20at%200m2s-gigapixel-standard-scale-1_20x.jpg",
     category: "Long Video",
   },
   {
