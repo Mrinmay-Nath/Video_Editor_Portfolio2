@@ -109,6 +109,7 @@ export default function About() {
       <Fade direction="up" delay={600} cascade damping={0.1} triggerOnce={true}>
         <p className="text-lg sm:text-xl leading-relaxed text-gray-700 dark:text-white/70 max-w-3xl mx-auto mb-4">
           • Grew three YouTube channels associated with my clients to over 1M, 200K, and 50K subscribers. Expanded several Instagram pages while working alongside my clients.
+          Worked for <a href="https://krafton.in/" target="_blank" rel="noopener noreferrer" className="text-blue-500 underline">Krafton India</a>, in a team project.
         </p>
         <p className="text-lg sm:text-xl leading-relaxed text-gray-700 dark:text-white/70 max-w-3xl mx-auto">
           • Established my digital presence with 4K+ subscribers on YouTube and 4K+ followers on Instagram.
